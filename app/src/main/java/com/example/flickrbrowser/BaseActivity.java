@@ -12,6 +12,7 @@ public class BaseActivity extends AppCompatActivity {
     static final String PHOTO_TRANSFER = "PHOTO_TANSFER";
 
     //Raghav's First Commit
+    //Raghav's Second Commit
     //allows to go to the home page
     void activateToolbar(boolean enableHome){
         Log.d(TAG, "activateToolbar: starts");
