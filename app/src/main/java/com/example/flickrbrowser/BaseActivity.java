@@ -11,6 +11,7 @@ public class BaseActivity extends AppCompatActivity {
     static final String FLICKR_QUERY = "FLICKR_QUERY";
     static final String PHOTO_TRANSFER = "PHOTO_TANSFER";
 
+    //Raghav's First Commit
     //allows to go to the home page
     void activateToolbar(boolean enableHome){
         Log.d(TAG, "activateToolbar: starts");
